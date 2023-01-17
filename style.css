@@ -1,0 +1,37 @@
+#header{
+    background-color: red;
+    height: 50px;
+    color: white;
+}
+
+#introduction{
+    height: 500px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+#header li {
+    float:left;
+    margin:20px;
+
+}
+#ourProjects {
+    background-color:#45567d;
+    height: 500px;
+    color:white;
+    text-align: center;
+
+}
+#contact {
+    background-color:#303841;
+    height: 500px;
+    color:white;
+    text-align: center;
+}
+#footer {
+    height: 50px;
+    background-color:#303841;
+    color:white;
+    text-align: center;
+}
